@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/Nusrath/verifyid/issues"
   },
-  "homepage": "https://github.com/Nusrath/verifyid#readme"
+  "homepage": "https://github.com/Nusrath/verifyid#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
 }
