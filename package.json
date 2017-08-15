@@ -1,6 +1,6 @@
 {
   "name": "verifyid",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NodeJS wrapper for verifyid.co.za ID Validation API",
   "main": "index.js",
   "scripts": {
